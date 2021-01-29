@@ -1,4 +1,4 @@
-# Hola este es mi Portfolio echo con react!
+# Hola este es mi Portfolio hecho con react!
 
 ## Instalar dependencias
 
