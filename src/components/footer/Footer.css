@@ -8,10 +8,12 @@
   z-index: -2;
   bottom: 0;
   left: 0;
+  
 }
 
 .footer-info {
-  font-size: 35px;
+ 
+  font-size: 1.5rem;
   padding: 30px 0 30px 50px;
   width: 70%;
   margin: 0 auto;
@@ -23,10 +25,16 @@
 
 .footer-contact {
   background-color: coral;
-  font-size: 22px;
+  font-size: 1rem;
   padding: 100px 0 30px 50px;
   width: 70%;
   margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 5px 2px 3px gray;
+  border-radius: 10px ;
+  
 }
 
 .footer-sns {
@@ -74,7 +82,7 @@
   .footer-info {
     text-align: center;
     padding: 0;
-    font-size: 20px;
+    font-size: 1.5rem;
   }
 
   .footer-contact {

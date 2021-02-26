@@ -12,9 +12,9 @@ const Footer = () => {
       <div className="footer-contact">
         <h2 className="">¡Hablemos!</h2>
         <br />
-        <p>+54 9 1150053555</p>
+        <h2>+54 9 1150053555</h2>
         <br />
-        <p>lucianoarielmoyano1@gmail.com</p>
+        <h2>lucianoarielmoyano1@gmail.com</h2>
         <br />
         <img className="img-footer" src={Telefono} />
       </div>

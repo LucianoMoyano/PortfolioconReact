@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8cd3d44.chunk.css",
+    "main.js": "/static/js/main.8c93c728.chunk.js",
+    "main.js.map": "/static/js/main.8c93c728.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ced13294.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ced13294.js.map",
+    "static/css/2.c69402d6.chunk.css": "/static/css/2.c69402d6.chunk.css",
+    "static/js/2.822a7efa.chunk.js": "/static/js/2.822a7efa.chunk.js",
+    "static/js/2.822a7efa.chunk.js.map": "/static/js/2.822a7efa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c69402d6.chunk.css.map": "/static/css/2.c69402d6.chunk.css.map",
+    "static/css/main.c8cd3d44.chunk.css.map": "/static/css/main.c8cd3d44.chunk.css.map",
+    "static/js/2.822a7efa.chunk.js.LICENSE.txt": "/static/js/2.822a7efa.chunk.js.LICENSE.txt",
+    "static/media/Navent.65a4f2d9.png": "/static/media/Navent.65a4f2d9.png",
+    "static/media/Prueba.28e98311.png": "/static/media/Prueba.28e98311.png",
+    "static/media/coverVideo.a84c4476.mp4": "/static/media/coverVideo.a84c4476.mp4",
+    "static/media/ecommerce.c8c15d08.png": "/static/media/ecommerce.c8c15d08.png",
+    "static/media/lucho1.2068b022.png": "/static/media/lucho1.2068b022.png",
+    "static/media/telefono.47adb7fa.jpg": "/static/media/telefono.47adb7fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced13294.js",
+    "static/css/2.c69402d6.chunk.css",
+    "static/js/2.822a7efa.chunk.js",
+    "static/css/main.c8cd3d44.chunk.css",
+    "static/js/main.8c93c728.chunk.js"
+  ]
+}

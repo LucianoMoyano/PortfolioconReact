@@ -16,9 +16,9 @@ const Slider = () => {
         slidesPerPage={3}
         infinite
         animationSpeed={300}
-        centered
+        
         offset={50}
-        itemWidth={400}
+        itemWidth={780}
         slides={Slides}
         breakpoints={{
           960: {
